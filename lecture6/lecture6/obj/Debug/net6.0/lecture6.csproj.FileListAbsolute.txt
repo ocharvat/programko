@@ -1,0 +1,14 @@
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\bin\Debug\net6.0\lecture6.exe
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\bin\Debug\net6.0\lecture6.deps.json
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\bin\Debug\net6.0\lecture6.runtimeconfig.json
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\bin\Debug\net6.0\lecture6.dll
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\bin\Debug\net6.0\lecture6.pdb
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\obj\Debug\net6.0\lecture6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\obj\Debug\net6.0\lecture6.AssemblyInfoInputs.cache
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\obj\Debug\net6.0\lecture6.AssemblyInfo.cs
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\obj\Debug\net6.0\lecture6.csproj.CoreCompileInputs.cache
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\obj\Debug\net6.0\lecture6.dll
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\obj\Debug\net6.0\refint\lecture6.dll
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\obj\Debug\net6.0\lecture6.pdb
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\obj\Debug\net6.0\lecture6.genruntimeconfig.cache
+C:\Users\ondrej.charvat\source\repos\lecture6\lecture6\obj\Debug\net6.0\ref\lecture6.dll
