@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kvadratická rovnice", "kvadratická rovnice\kvadratická rovnice.csproj", "{8F5A2EF8-0D26-4812-8CE7-1B35D4A7DB1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F5A2EF8-0D26-4812-8CE7-1B35D4A7DB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5A2EF8-0D26-4812-8CE7-1B35D4A7DB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5A2EF8-0D26-4812-8CE7-1B35D4A7DB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5A2EF8-0D26-4812-8CE7-1B35D4A7DB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {528ACC8D-357D-427E-A9B2-41DA9BDB2B18}
+	EndGlobalSection
+EndGlobal
