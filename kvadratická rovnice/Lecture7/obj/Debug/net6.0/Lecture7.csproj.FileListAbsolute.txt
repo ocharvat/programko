@@ -1,0 +1,14 @@
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\bin\Debug\net6.0\Lecture7.exe
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\bin\Debug\net6.0\Lecture7.deps.json
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\bin\Debug\net6.0\Lecture7.runtimeconfig.json
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\bin\Debug\net6.0\Lecture7.dll
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\bin\Debug\net6.0\Lecture7.pdb
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.AssemblyInfoInputs.cache
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.AssemblyInfo.cs
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.csproj.CoreCompileInputs.cache
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.dll
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\obj\Debug\net6.0\refint\Lecture7.dll
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.pdb
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\obj\Debug\net6.0\Lecture7.genruntimeconfig.cache
+C:\Users\ondrej.charvat\source\repos\Lecture7\Lecture7\obj\Debug\net6.0\ref\Lecture7.dll
